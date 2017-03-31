@@ -9,7 +9,7 @@ public class EquacaoGrau2Test
 	private static final double TOLERANCIA = 0.002;
 	private EquacaoGrau2 equacao;
 
-	System.out.printlv("Wohohooooo");
+	System.out.printlv("Wohohooo");
 	
 	@Before
 	public void criarEquacao() 
