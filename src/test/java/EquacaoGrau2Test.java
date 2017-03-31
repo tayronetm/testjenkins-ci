@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class EquacaoGrau2Test 
 {
-	private static final double TOLERANCIA = 0.002;
+	private static final double TOLERANCIA = 0.001;
 	private EquacaoGrau2 equacao;
 
 	
