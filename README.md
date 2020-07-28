@@ -1,3 +1,1 @@
-# testjenkins-ci2
-# testtravis-ci2
-# testcircle-ci2
+Testes de integração contínua utilizando Circle CI, Jenkins e Travis.
